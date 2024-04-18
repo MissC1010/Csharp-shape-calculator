@@ -1,0 +1,15 @@
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\obj\Debug\net8.0\ShapeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\obj\Debug\net8.0\ShapeCalculator.AssemblyInfoInputs.cache
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\obj\Debug\net8.0\ShapeCalculator.AssemblyInfo.cs
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\obj\Debug\net8.0\ShapeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\obj\Debug\net8.0\ShapeCalculator.sourcelink.json
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\bin\Debug\net8.0\ShapeCalculator.exe
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\bin\Debug\net8.0\ShapeCalculator.deps.json
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\bin\Debug\net8.0\ShapeCalculator.runtimeconfig.json
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\bin\Debug\net8.0\ShapeCalculator.dll
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\bin\Debug\net8.0\ShapeCalculator.pdb
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\obj\Debug\net8.0\ShapeCalculator.dll
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\obj\Debug\net8.0\refint\ShapeCalculator.dll
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\obj\Debug\net8.0\ShapeCalculator.pdb
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\obj\Debug\net8.0\ShapeCalculator.genruntimeconfig.cache
+C:\Users\celin\OneDrive\Desktop\Csharp shape calculator\ShapeCalculator\obj\Debug\net8.0\ref\ShapeCalculator.dll
